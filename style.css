@@ -2,7 +2,11 @@ body{
     font-family: sans-serif;
     background-color:black;
 }
-
+.note{
+    font-size: medium;
+    color: firebrick;
+    font-style: oblique;
+}
 #calculator{
     width: 320px;
     height:520px;
