@@ -3,9 +3,10 @@ body{
     background-color:black;
 }
 .note{
-    font-size: medium;
+    font-size: larger;
     color: firebrick;
     font-style: oblique;
+    text-align: center;
 }
 #calculator{
     width: 320px;
